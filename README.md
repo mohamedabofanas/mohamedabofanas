@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamedabofanas
 - 👀 I’m interested in C# Language, mobile and game development. 
-- 🌱 I’m currently learning .NET MAUI and unity. 
-- 💞️ I’m looking to collaborate on develop mobile apps and.NET projects
+- 🌱 I’m currently learning Xamarin, .NET MAUI and Unity. 
+- 💞️ I’m looking to collaborate on develop mobile apps and .NET projects.
 - 📫 How to reach me whatsapp: 00218916472585 or Twitter: mohamedabofnas
 
 <!---
